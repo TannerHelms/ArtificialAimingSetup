@@ -1,0 +1,41 @@
+ResetUnlocks
+
+UnlockAll weapon
+UnlockAll camo
+UnlockAll attachment
+UnlockAll reticle
+UnlockAll charm
+
+UnlockAll operator
+UnlockAll operator_quip
+UnlockAll operator_skin
+
+UnlockAll accessory
+UnlockAll accolade
+UnlockAll consumable
+UnlockAll emblem
+UnlockAll equipment
+UnlockAll execution
+UnlockAll gesture
+UnlockAll killstreak
+UnlockAll perk
+UnlockAll playercard
+UnlockAll spray
+UnlockAll sticker
+UnlockAll taunt
+
+UnlockAll vehicle
+UnlockAll vehicle_horn
+UnlockAll vehicle_track
+
+To unlock Attachments:
+
+UnlockAll ar_
+UnlockAll knife_
+UnlockAll la_
+UnlockAll lm_
+UnlockAll me_
+UnlockAll pi_
+UnlockAll sh_
+UnlockAll sm_
+UnlockAll sn_

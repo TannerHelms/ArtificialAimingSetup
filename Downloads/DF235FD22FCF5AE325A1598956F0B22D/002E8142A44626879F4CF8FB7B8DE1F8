@@ -1,0 +1,219 @@
+[Game]
+Gravity=386.089996
+UnitScale=0.025400
+
+[GUI]
+ToggleKey=INSERT
+CloseKey=INSERT
+
+[Aimbot]
+Active=true
+AutoAimKey=RBUTTON
+TargetingStyle=1
+AutoAimStyle=3
+BoneAim=true
+VisibilityChecks=true
+LimitAimAngle=true
+AimAngleLimit=20.0
+SlowAim=true
+SlowAimRate=20.0
+AutoFire=false
+AutoFireDelay=0.0
+AutoAimDelay=0.0
+PingCorrection=false
+PingCorrectionScale=1.0
+FrameCorrection=false
+FrameCorrectionScale=1.0
+BulletSpeedCorrection=true
+BulletSpeedCorrectionScale=1.0
+BulletDropCorrection=true
+BulletDropCorrectionScale=1.0
+MuzzleCorrection=true
+MuzzleCorrectionScale=1.0
+AimAtEnemy=true
+AimAtFriends=false
+AimAtNeutrals=false
+StickToTarget=false
+SwitchTarget=false
+ForceHitZone=4
+ShowLockStyle=0
+ShowLockColor=255, 255, 0, 255
+ShowLockAltColor=255, 128, 0, 255
+LockText=Lock
+PreCorrectionTrace=false
+PostCorrectionTrace=true
+PenetrationScale=1.0
+AimAtProtected=false
+AimAtStealth=false
+AutoMelee=false
+MeleeWeaponName=Knife
+DrawTracePoints=false
+SlowAimDistanceScale=100.0
+ForgetTarget=false
+BulletDropCorrectionSliceCount=4
+LeadCorrectionTrace=true
+AimAtRogues=true
+DrawTracePointsScale=1.0
+Tweak=1.0
+
+[Triggerbot]
+Active=false
+FireAtEnemy=true
+FireAtFriends=false
+FireAtNeutrals=false
+FireWithInstantHit=true
+FireWithBulletSpeed=true
+FireWithBulletDrop=true
+FireDelay=0.0
+PenetrationScale=1.0
+FireAtProtected=false
+FireAtStealth=false
+DrawTracePoints=True
+FireAtRogues=true
+DrawTracePointsScale=1
+
+[3DRadar]
+Active=true
+ShowEnemy=true
+ShowTeam=false
+ShowVehicles=false
+ShowProjectiles=false
+ShowHealthBars=false
+ShowNeutrals=true
+ShowBreadCrumbs=true
+ShowCoords=false
+ShowBones=false
+ShowLoot=true
+ShowDebugInfo=false
+MaxRangePlayers=400.0
+MaxRangeNeutrals=-1.0
+MaxRangeVehicles=100.0
+MaxRangeProjectiles=150.0
+MaxRangeContent=-1.0
+BoxWidth=2.4
+InfoStyle=4
+IndicatorStyle=4
+ProjectileIndicatorStyle=4
+VisibilityChecks=true
+UseTeamColors=false
+UseSpecialColors=true
+SquadColor=0, 255, 0, 255
+CommanderColor=255, 128, 0, 255
+SpawnProtectionColor=255,255,0,255
+TeamColor1=0, 0, 255, 0
+TeamColor2=0, 255, 0, 255
+TeamColor3=255, 255, 0, 255
+TeamColor4=0, 255, 255, 255
+TeamColor5=255, 255, 0, 255
+TeamColor6=0, 255, 0, 255
+VehicleTeamColor1=0, 0, 0, 0
+VehicleTeamColor2=0, 128, 0, 255
+VehicleTeamColor3=0, 255, 255, 255
+VehicleTeamColor4=0, 128, 255, 255
+VehicleTeamColor5=128, 128, 0, 255
+VehicleTeamColor6=0, 128, 0, 255
+EnemyColor=255, 255, 0, 255
+FriendColor=0, 255, 255, 255
+ProtectedColor=255, 255, 0, 255
+StealthColor=255, 255, 0, 255
+ProjectileColor=255, 255, 0, 255
+MeleeWeaponColor=255, 255, 0, 255
+BulletWeaponColor=255, 128, 0, 255
+ThrowingWeaponColor=255, 255, 0, 0
+FoodColor=0, 255, 255, 255
+HatColor=0, 128, 255, 255
+AttatchmentColor=0, 128, 255, 255
+AmmoColor=255, 128, 0, 255
+BackpackColor=128, 0, 255, 255
+MedicationColor=0, 128, 0, 0
+GearColor=0, 128, 255, 255
+BoxColor=0, 179, 255, 0
+LootColor=0, 255, 128, 255
+ResourceColor=255, 255, 255, 0
+SleeperColor=255, 128, 0, 255
+ContentColor=255, 255, 255, 255
+CollectibleColor=128, 128, 255, 255
+EggColor=255, 0, 234, 0
+PlantColor=174, 255, 0, 255
+LockColor=192, 192, 192, 255
+Crate1Color=144, 0, 255, 255
+Crate2Color=187, 0, 255, 255
+Crate3Color=230, 0, 255, 255
+Crate4Color=255, 0, 234, 255
+BuildingColor=255, 255, 255, 255
+MiscColor=192, 192, 192, 0
+ExplosiveColor=255, 0, 106, 255
+FecesColor=128, 64, 0, 255
+BreadCrumbColor=255, 128, 0, 255
+HeadBoneColor=255, 255, 0, 255
+BodyBoneColor=255, 128, 0, 255
+MinLevel=-1
+MaxLevel=-1
+LineThickness=2.500000
+
+[2DRadar]
+Active=true
+ShowEnemy=true
+ShowTeam=true
+ShowNeutrals=false
+ShowVehicles=false
+ShowArrows=true
+Scale=1.850000
+PosX=170.500000
+PosY=159.0
+SizeX=230.0
+SizeY=230.0
+ShowCross=false
+ShowWindow=false
+ShowDot=false
+ClipToWindow=true
+DotSize=7.500000
+GameScale=0.600000
+MaxRangePlayers=40.0
+MaxRangeVehicles=160.0
+
+[Warning]
+Active=true
+AimingAtYouThreshold=100.0
+CanSeeYouThreshold=100.0
+IsVisibleThreshold=100.0
+ProjectileDamageThreshold=100.0
+AimingAtYouColor=255, 0, 0, 255
+CanSeeYouColor=255, 255, 0, 255
+IsVisibleColor=0, 255, 0, 255
+ProjectileDamageColor=255, 0, 255, 255
+IsAimingAtYouFormat=
+CanSeeYouFormat=
+IsVisibleFormat=
+ProjectileDamageFormat=
+
+[ShitList]
+Active=false
+Names=
+
+[FriendList]
+Active=false
+Names=
+
+[CrossHair]
+Active=true
+CrossHairStyle=0
+CrossHairColor=255, 255, 0, 255
+CrossHairOffsetX=0.0
+CrossHairOffsetY=0.0
+
+[Renderer]
+GUIFontSize=7.0, 12.0
+SmallFontSize=7.0, 12.0
+MediumFontSize=7.0, 12.0
+LargeFontSize=20.0, 40.0
+BaseColor=0, 0, 0, 255
+DrawTextShadows=true
+Opacity=1.0
+
+[NoRecoil]
+Active=true
+
+[StreamProof]
+Active=true
+

@@ -1,0 +1,83 @@
+;--- Xpadder Configuration File ---
+DataType=INI
+
+[Core Settings]
+LastVersion=2018.05.01
+LastHost=503894BD
+Language=English
+
+[Default Locations]
+DefaultControllerLocation=
+DefaultProfileLocation=
+DefaultImageLocation=
+
+[Options]
+StartWithWindows=0
+AssociateFiles=1
+StartMinimized=0
+AutoOpenLastProfile=1
+ScanForXInput=1
+ShowAnimations=1
+ProcessNonSelectedControllers=1
+AutomaticallyDetectNewControllers=1
+MinimizeWhenClosingMainWindow=1
+RememberWindowPositions=1
+AllowMultiMonitorWindowPositions=1
+AutoMinimizeOnOpenProfile=0
+ReturnToSet1AfterMinimizeRestore=1
+ShowDebugSettings=0
+ShowTaskbarButtonWhenMinimized=0
+ShowIconInNotificationArea=1
+ShowNamesOnButtons=1
+
+[Window Positions]
+AssignmentSettingsWindowPosition=588,376
+AssignmentAdvancedSettingsWindowPosition=
+ControllerPropertiesWindowPosition=
+ControllerSettingsWindowPosition=693,275
+DPadSettingsWindowPosition=
+MainWindowPosition=990,232
+MouseSettingsWindowPosition=
+ProfileSettingsWindowPosition=787,415
+SetSettingsWindowPosition=
+SettingsWindowPosition=
+StickSettingsWindowPosition=
+TriggerSettingsWindowPosition=
+
+[Defaults]
+DefaultStickDeadZone=64
+DefaultTriggerDeadZone=1
+DefaultKeyTapTime=10
+DefaultMouseSpeed=32
+
+[Theme]
+Interface1=0,15,63
+Interface2=255,255,255
+Interface3=0,63,127
+Background1=255,255,255
+Background2=191,191,191
+Background3=127,127,127
+ThemeImage=
+ThemeButtons=Vista
+ControllerTransparency=0
+
+[Controllers]
+Controller1Name=Controller (Xbox One For Windows)
+Controller1ID=4,94,2,255
+Controller1Hidden=0
+Controller1File=Controller (Xbox One For Windows).xpaddercontroller
+Controller1Recent1=(Untitled profile).xpadderprofile
+Controller1Recent2=
+Controller1Recent3=
+Controller1Recent4=
+
+[AutoProfiles]
+AutoProfilesActivated=0
+AutoProfile1Activated=0
+AutoProfile1Profile=
+AutoProfile2Activated=1
+AutoProfile2Profile=
+AutoProfile2Watch=Xpadder.exe
+
+[Debug]
+RememberLastSettingsPage=0

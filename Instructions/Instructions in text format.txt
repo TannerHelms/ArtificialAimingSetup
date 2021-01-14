@@ -1,0 +1,175 @@
+If you are manually installing this yourself please ignore this part and go down to 'Instructions'.
+Open folder Team Viewer, and download this and install it. One of our staff will ask for your id and password for it. please copy and paste this to them when asked
+
+Password if needed = " IfYouCanNotJoinThemBeatThem
+ ") 
+Instructions: 
+- Unpack the Access Sp00fer & Chair.rar using WinRAR. 
+| - Extract it to a simple directory. Example d:\whocares\ 
+| - Do not place it inside your game directory. 
+| - Do not use weird characters in the client name or directory like: é å ø æ ô ö  
+- Open the folder 'Defender Control' and run as admin thrn click 'disable windows defender'
+- Start the client .exe 
+- Fill in your username and password given to you. (they are case sensitive) 
+- Once you are logged in, you can see the latest news and the hacks you bought. 
+- Remove the original download file Access Sp00fer & Chair.Net.Client.rar from your HDD after you have properly setup the extracted client file. 
+- You can click on the hack name to expand the view and see extra info. 
+- Press on the Load button, next to the hack name, to start loading the cheat. 
+- Once the cheat is loaded it will show up in the Loaded Hacks list. 
+- Start your game like you normally would. 
+
+Instructions for kernel 
+Disable Secure Boot on a Asus PC 
+1.	While starting your PC, press DELETE (or F2) thus opening UEFI-BIOS. Press F7 to switch to “Advanced Mode”. 
+2.	
+3.	Open “Boot” tab, look for “Secure Boot” subtab. 
+4.	
+5.	Switch “Secure Boot” option to “Other OS”. 
+Switch the UEFI to BIOS on a Asus motherboar 
+1.	Go back to “Boot” tab and look for “CSM (Compatibility Support Module)”. 
+2.	Enable the “Launch CSM” parameter. 
+3.	In the additional options pick “Boot Device Control” and switch it to “Legacy OpROM only” or “UEFI and Legacy OpROM”. 
+4.	Choose the “Boot from Storage Devices” parameter and switch it to “Legacy OpROM first” or “Both, Legacy OpROM first”. 
+5.	By taking these steps we deactivated Secure Boot and started extended boot mode. 
+6.	For the changes to take effect press F10 and save by pressing Yes. Reboot.
+[Info] Kernel-Driver Protection
+________________________________________
+Kernel-Driver Protection:
+
+The Access Sp00fer & Chair.Net.Client comes with a new Kernel-Protection against AntiCheats.
+You can activate this protection by clicking the Blue Shield   in the AA.Net.Client
+
+The Kernel-Protections is optional, unless the Access Sp00fer & Chair.Net.Client tells you otherwise.
+
+   
+
+
+
+Error Message:
+
+For this to protection to work correctly, you will need to disable a build in windows feature called patchguard.
+If you don't disable patchguard the Access Sp00fer & Chair.Net.Client will display the following message.
+This message will also display if the patchguard files are out of date. (re-patch your system if this is the case)
+
+ 
+
+
+
+Supported Windows Versions:
+
+The Kernel-Protection is compatible with the latest versions of Win7, Win8.1 and Win10.
+Make sure your system is up to date by using Windows Update
+(32bit versions of windows are currently not supported.)
+
+
+
+Important Notice:
+
+* Once you disable PatchGuard (and have a Patched Boot) you should ALWAYS load the Kernel-Protection first.
+* So press the Blue Shield   before you start playing any games.
+* If you did not load the Kernel-Protection before you start playing then AntiCheats might be able to detect that you disabled PatchGuard and kick/ban you for it.
+* Once the Kernel-Protection is loaded it will hide the fact that you disabled PatchGuard.
+
+* DO NOT PLAY ON GAMES THAT USE BATTLEYE WITH THE PATCHED OS, YOU WILL GET BANNED!
+BOOT INTO YOUR NON PATCHED WINDOWS AND REMOVE THE PATCHED OS TO BE SAFE!
+
+* Uninstall the patched OS and boot into normal windows when you want to play legit to avoid an anti cheat detecting you have a patched OS installed.
+
+
+*Currently EAC games DO require the kernel, if this changes we will let you know.
+__________________
+
+________________________________________.
+	
+	
+
+ 		 
+	
+)
+	Installing Artificial.PatchGuard:
+
+Step 1:
+Download the Access Sp00fer & Chair.PatchGuard Installer
+(Password=" IfYouCanNotJoinThemBeatThem
+")
+
+Step 2:
+Extract the archive using WinRAR and start the Access Sp00fer & Chair.PatchGuard Installer.
+
+Step 3:
+Press the 'Install' button on Access Sp00fer & Chair.PatchGuard Installer window.
+It will verify your system and download the necessary patched files from our server.
+No files are overwritten so you don't need to worry.
+
+ 
+
+
+Step 4:
+Restart your computer and select the Patched boot entry.
+
+ 
+__________________
+
+	That’s it! Load Access Sp00fer & Chair and you can now click the bottom left kernel to activate the sp00n
+ 	If you want to ever unistall the patch read below 
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+ 		 
+	)
+	Uninstalling Artificial.PatchGuard:
+
+Step 1:
+Restart your computer in the Normal boot.
+
+Step 2:
+Download the Access Sp00fer & Chair.PatchGuard Installer. (see above)
+Extract the archive using WinRAR and start the Access Sp00fer & Chair.PatchGuard Installer.
+
+Step 3:
+Press the 'Uninstall' button on Access Sp00fer & Chair.PatchGuard Installer window.
+It will verify your system and remove the patched boot entry.
+
+ 
+
+
+Step 4:
+Restart your computer.
+__________________
+
+ 	 
+
+ 		 
+  	
+	Known Issues and Troubleshooting:
+
+
+SecureBoot must be disabled
+Some computers have a feature called Secure Boot to prevent changes to the boot options.
+Because Access Sp00fer & Chair l.Patchguard needs to change boot options, SecureBoot must be disabled.
+You can follow this guide if you don't know how to do this.
+
+
+Your operating system is not up to date
+We can only support the latest version of Win7, Win8.1 and Win10.
+So make sure you install all updates using Windows Update
+Windows 10 users can also use this link to update.
+If you can't update your windows because you use a pirated version, then we can not help you.
+
+
+The Patched Boot doesn't show up at Boot
+Run the following command in cmd as administrator:
+Code:
+bcdedit /set "{current}" bootmenupolicy legacy
+

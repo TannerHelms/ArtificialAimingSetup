@@ -1,0 +1,3299 @@
+<Weapon Knife>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle False></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon throwingknife>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle False></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal False></CanHitAnimal>
+		<CanHitZombie False></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire True></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 1600.16></BulletSpeed>
+		<BulletDrop 1.34></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd -0.4></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_alpha50>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange 19685></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange 19685></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 42949.21></BulletSpeed>
+		<BulletDrop 1.13></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_kilo98>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange 19685></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 40494.92></BulletSpeed>
+		<BulletDrop 0.4></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_hdromeo>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange 19685></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 49905.75></BulletSpeed>
+		<BulletDrop 1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_xmike109>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange 19685></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 21474.61></BulletSpeed>
+		<BulletDrop 0.17></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd -0.1></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_mike14>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 40></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 41692.91></BulletSpeed>
+		<BulletDrop 0.63></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_sbeta>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 40></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange 3></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 45708.66></BulletSpeed>
+		<BulletDrop 0.49></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_delta>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 40472.44></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_sksierra>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange 24000></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange 24000></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 45708.66></BulletSpeed>
+		<BulletDrop 1.7></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_crossbow>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle False></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 5000></BulletSpeed>
+		<BulletDrop 0.25></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd -0.1></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sn_romeo700>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange 19685></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_mike4>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 19000></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_falima>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 17000></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_kilo433>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 20000></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_falpha>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_asierra12>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_mcharlie>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed 1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 30000></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_scharlie>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_akilo47>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 20000></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_galima>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_tango21>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_sierra552>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_anovember94>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon ar_valpha>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sm_augolf>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sm_papa90>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease False></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sm_mpapa5>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 7000></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sm_uzulu>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sm_beta>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sm_mpapa7>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sm_victor>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sm_smgolf45>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sm_charlie9>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sh_romeo870>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sh_dpapa12>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sh_charlie725>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 14000></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sh_oscar12>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon sh_mike26>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon lm_pkilo>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon lm_lima86>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon lm_kilo121>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon lm_mgolf34>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon lm_mgolf36>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon lm_mkilo3>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon lm_sierrax>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon pi_decho>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth 40></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 10500></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon pi_golf21>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon pi_mike1911>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon pi_cpapa>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon pi_papa320>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 4></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger True></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed -1></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon la_rpapa7>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 1000></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd -2></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon la_gromeo>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 5></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 5000></BulletSpeed>
+		<BulletDrop 0.25></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon Vehicle>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 1></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle True></CanHitVehicle>
+		<CanHitArmor True></CanHitArmor>
+		<CanHitPlane True></CanHitPlane>
+		<CanHitHeli True></CanHitHeli>
+		<CanHitBoat True></CanHitBoat>
+		<CanHitAnimal True></CanHitAnimal>
+		<CanHitZombie True></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire False></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 10000></BulletSpeed>
+		<BulletDrop -1></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd 0></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon Semtex>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle False></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal False></CanHitAnimal>
+		<CanHitZombie False></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire True></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 1600.16></BulletSpeed>
+		<BulletDrop 1.60></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd -0.11></PitchToAdd>
+		<YawToAdd 0.1></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon Thermite>
+	<FireMode>
+		<HitLocations>
+			<HitData>
+				<HitZone 2></HitZone>
+				<MinPlayerSpeed -1></MinPlayerSpeed>
+				<MaxPlayerSpeed -1></MaxPlayerSpeed>
+				<MinTargetSpeed -1></MinTargetSpeed>
+				<MaxTargetSpeed -1></MaxTargetSpeed>
+				<MinTargetHealth -1></MinTargetHealth>
+				<MaxTargetHealth -1></MaxTargetHealth>
+				<MinPlayerZoom -1></MinPlayerZoom>
+				<MaxPlayerZoom -1></MaxPlayerZoom>
+				<MinRange -1></MinRange>
+				<MaxRange -1></MaxRange>
+				<MinAngle -1></MinAngle>
+				<MaxAngle -1></MaxAngle>
+			</HitData>
+		</HitLocations>
+		<Valid True></Valid>
+		<ValidAutoAim True></ValidAutoAim>
+		<ValidTrigger False></ValidTrigger>
+		<CanHitPlayer True></CanHitPlayer>
+		<CanHitVehicle False></CanHitVehicle>
+		<CanHitArmor False></CanHitArmor>
+		<CanHitPlane False></CanHitPlane>
+		<CanHitHeli False></CanHitHeli>
+		<CanHitBoat False></CanHitBoat>
+		<CanHitAnimal False></CanHitAnimal>
+		<CanHitZombie False></CanHitZombie>
+		<CanHitOpenSeat True></CanHitOpenSeat>
+		<AutoZoom False></AutoZoom>
+		<ForceAutoAim False></ForceAutoAim>
+		<ForceAutoFire True></ForceAutoFire>
+		<NeedsTriggerRelease True></NeedsTriggerRelease>
+		<BulletSpeed 900></BulletSpeed>
+		<BulletDrop 0.62></BulletDrop>
+		<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+		<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+		<PitchToAdd -0.4></PitchToAdd>
+		<YawToAdd 0></YawToAdd>
+		<Trigger 0></Trigger>
+	</FireMode>
+</Weapon>
+
+<Weapon pi_mike9>
+<FireMode>
+<HitLocations>
+<HitData>
+<HitZone 5></HitZone>
+<MinPlayerSpeed -1></MinPlayerSpeed>
+<MaxPlayerSpeed -1></MaxPlayerSpeed>
+<MinTargetSpeed -1></MinTargetSpeed>
+<MaxTargetSpeed -1></MaxTargetSpeed>
+<MinTargetHealth -1></MinTargetHealth>
+<MaxTargetHealth -1></MaxTargetHealth>
+<MinPlayerZoom -1></MinPlayerZoom>
+<MaxPlayerZoom -1></MaxPlayerZoom>
+<MinRange -1></MinRange>
+<MaxRange -1></MaxRange>
+<MinAngle -1></MinAngle>
+<MaxAngle -1></MaxAngle>
+</HitData>
+</HitLocations>
+<Valid True></Valid>
+<ValidAutoAim True></ValidAutoAim>
+<ValidTrigger True></ValidTrigger>
+<CanHitPlayer True></CanHitPlayer>
+<CanHitVehicle True></CanHitVehicle>
+<CanHitArmor False></CanHitArmor>
+<CanHitPlane False></CanHitPlane>
+<CanHitHeli True></CanHitHeli>
+<CanHitBoat False></CanHitBoat>
+<CanHitAnimal True></CanHitAnimal>
+<CanHitZombie True></CanHitZombie>
+<CanHitOpenSeat True></CanHitOpenSeat>
+<AutoZoom False></AutoZoom>
+<ForceAutoAim False></ForceAutoAim>
+<ForceAutoFire False></ForceAutoFire>
+<NeedsTriggerRelease True></NeedsTriggerRelease>
+<BulletSpeed -1></BulletSpeed>
+<BulletDrop -1></BulletDrop>
+<BulletTargetSpeedScale 1></BulletTargetSpeedScale>
+<BulletPlayerSpeedScale 0.1></BulletPlayerSpeedScale>
+<PitchToAdd 0></PitchToAdd>
+<YawToAdd 0></YawToAdd>
+<Trigger 0></Trigger>
+</FireMode>
+</Weapon>

@@ -1,0 +1,29 @@
+<Vehicle Player>
+	<Valid True></Valid>
+	<IsPlayer True></IsPlayer>
+	<IsVehicle False></IsVehicle>
+	<IsArmor False></IsArmor>
+	<IsPlane False></IsPlane>
+	<IsHeli False></IsHeli>
+	<IsBoat False></IsBoat>
+	<IsPassenger False></IsPassenger>
+	<IsOpenSeat False></IsOpenSeat>
+	<ForceHitZone 0></ForceHitZone>
+</Vehicle>
+
+<Vehicle Vehicle>
+	<Valid True></Valid>
+	<IsPlayer False></IsPlayer>
+	<IsVehicle True></IsVehicle>
+	<IsArmor False></IsArmor>
+	<IsPlane False></IsPlane>
+	<IsHeli False></IsHeli>
+	<IsBoat False></IsBoat>
+	<IsPassenger False></IsPassenger>
+	<IsOpenSeat False></IsOpenSeat>
+	<ForceHitZone 0></ForceHitZone>
+</Vehicle>
+
+<Vehicle None>
+	<Valid False></Valid>
+</Vehicle>

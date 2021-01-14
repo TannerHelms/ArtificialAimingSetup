@@ -1,0 +1,30 @@
+Download auto keybooard by murgee here:
+https://www.murgee.com/auto-keyboard/
+
+Run 'setup.exe'
+Install
+
+Change settings to:
+Key to automate: 
+First drop down select 'none'
+Second drop down select 'l' (L)
+Shortcut key to Start/Stop key Pressing: F8
+Number of keys to automate: 0
+
+Select 'Save shortcut Key'
+
+Now to test it works open a plain notepad screen.
+To activate the aimbot press F8. If you followed all instructions above correctly you will see on your notepad the lertter 'l' appear and continously typed.
+To deactive aimbot just press F8 again.
+
+Now load the game, once on main screen press 'Ins' (insert) on your keyboard to bring up the console command.
+Go to 'Aimbot' tab
+Under 'Targeting' heading click 'key'and chose the letter 'L' for 'Configure AutoAimKey'
+
+Thats it! So when your in game just press F8 and your aimbot will work.
+
+For legit settings or any issues message me on discord. 
+Please dont forget to leave a vouch/review on my discord.
+
+Discord:
+Argate#4881

@@ -1,0 +1,24 @@
+SCP Driver Installer 1.2.2.175 [12/18/2020 3:39:43 PM]
+
+Detected - Microsoft Windows 10 Pro (6.2.9200.0 AMD64)
+Selected DEFAULT configuration.
+
+INFO    - ENTER:  DriverPackageInstallW
+INFO    - Looking for Model Section [SCProductions.NTamd64]...
+INFO    - Installing INF file 'C:\Users\tanne\Desktop\Access Sp00fer & chair\DS4Windows\Virtual Bus Driver\System\ScpVBus.inf' (Plug and Play).
+INFO    - Looking for Model Section [SCProductions.NTamd64]...
+INFO    - Installing devices with Id "root\ScpVBus" using INF "C:\Windows\System32\DriverStore\FileRepository\scpvbus.inf_amd64_21ca245c0e23d7a5\scpvbus.inf".
+INFO    - Will force install because driver is not better and force flag is set.
+INFO    - ENTER UpdateDriverForPlugAndPlayDevices...
+SUCCESS - RETURN UpdateDriverForPlugAndPlayDevices.
+INFO    - Installation was successful.
+SUCCESS - Install completed
+INFO    - RETURN: DriverPackageInstallW  (0x0)
+
+Install Succeeded.
+
+-- Install Summary --
+Bus Driver
+
+
+

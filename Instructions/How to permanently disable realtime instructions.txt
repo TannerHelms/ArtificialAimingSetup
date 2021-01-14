@@ -1,0 +1,23 @@
+You need to turn off the Windows Defender Antivirus Tamper protection based on your build number by following the below steps,
+
+Go to the Windows security page.
+Click the “Virus & Threat Protection” option present at the left-hand side navigation bar.
+Scroll down the page and click the “Manage settings” link.
+Scroll down and toggle the button for “Tamper Protection” as mentioned in the below screenshot.
+If UAC prompts you, click Yes to approve.
+
+
+You can also turn on or off the Tamper protection from the registry editor as well,
+
+Location: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Features
+Variable name: TamperProtection DWORD
+Values : 0 = Off, 5 = On
+
+
+
+disable realtime:
+Open Regedit
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+Add new "key" named "Real-Time Protection"
+Select "Real-Time Protection" and create DWORD (32-Bit) value named "DisableRealtimeMonitoring". Change Value Data 0 to 1
+Save and exit Regedit
